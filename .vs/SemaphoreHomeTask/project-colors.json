@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30f050d1-2ed7-4ae5-8f90-7c91eb85728a": {
+      "ProjectGuid": "30f050d1-2ed7-4ae5-8f90-7c91eb85728a",
+      "DisplayName": "SemaphoreHomeTask",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
